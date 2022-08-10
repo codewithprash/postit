@@ -1,5 +1,7 @@
 # postit
 
+![play_store_feature_graphic](https://user-images.githubusercontent.com/87913082/183885140-8ff7e3dd-7e73-491a-a71b-3e72c6cb8d8c.png)
+
 A new Flutter project.
 
 ## Getting Started
